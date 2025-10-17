@@ -3,6 +3,7 @@
 ## Igneous rocks
 
 ![Igneous rocks](https://dronelab-temp-upload.s3-eu-west-1.amazonaws.com/temp/g-geo-rocksl-dia00a.gif)
+
 **Igneous rocks** are fire formed.
 
 They originate from the magma in the mantle of the Earth.
@@ -18,6 +19,7 @@ An example of an intrusive igneous rock is **granite.**
 
 ## Sedimentary rocks
 ![The Rock Cycle](https://dronelab-temp-upload.s3-eu-west-1.amazonaws.com/temp/g-geo-rocksl-dia00b.gif)
+
 Over millions of years the actions of rivers, glaciers and the wind produce large amounts of small particles called **sediments.**
 
 These accumulated on sea floors in layers, and due to the pressure of material above they were compressed to form rocks.
@@ -43,5 +45,6 @@ They begin as either igneous or sedimentary rocks before being changed, usually 
 Examples include **slate** (which used to be clay) and **marble** (which used to be limestone).
 
 ### The Rock Cycle
+
 
 ![The Rock Cycle](https://dronelab-temp-upload.s3-eu-west-1.amazonaws.com/temp/g-geo-rocksl-dia01.gif)
